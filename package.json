@@ -1,0 +1,9 @@
+{
+  "name": "baseGulp",
+  "version": "1.0.0",
+  "description": "Learn Gulp by building an awesome development environmen",
+  "main": "index.js",
+  "repository": "https://github.com/RoJaebl/base-gulp.git",
+  "author": "RoJaebl <qgs0924@gmail.com>",
+  "license": "MIT"
+}
